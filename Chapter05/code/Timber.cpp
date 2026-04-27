@@ -24,7 +24,7 @@ int main()
 	VideoMode vm(1920, 1080);
 
 	// Create and open a window for the game
-	RenderWindow window(vm, "Timber!!!!", Style::Default);
+	RenderWindow window(vm, "Timber!!!!!!", Style::Default);
 
 	View view;
 	view.setSize(1920.0, 1080.0);
